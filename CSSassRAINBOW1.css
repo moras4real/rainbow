@@ -1,0 +1,14 @@
+
+div {
+    border: 1px solid none;      
+    width: 300px;
+    height: 300px;    
+    margin: 300px;
+    border-radius: 100%; 
+    background: conic-gradient(red, orange, yellow, green, blue, indigo, violet)    
+}
+body{
+    background-color: aliceblue;
+}
+
+/* background: linear-Gradient */
